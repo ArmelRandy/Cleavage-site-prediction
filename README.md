@@ -6,3 +6,6 @@ I am student who is willing to learn how to use git.
 # subheader
 
 I think I have found the best video ever on github.
+
+## Local development
+1. Open ... in your browser 
