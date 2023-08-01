@@ -1,3 +1,1 @@
-# hello-world
-
-Prediction of cleavage site on proteins
+# Cleavage site prediction on proteins
